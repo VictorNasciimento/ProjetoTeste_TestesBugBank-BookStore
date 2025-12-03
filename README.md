@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a disciplina de Testes de Software e Automação. O objetivo é validar a qualidade de duas aplicações (BookStore API e BugBank) utilizando **Playwright** com **JavaScript**.
 
-## 👨‍💻 Aluno
+## 👨‍💻 Alunos
 **Nomes:** Diego Barros, Rafael Lima, Victor Manoel
 **Curso:** Análise e Desenvolvimento de Sistemas
 
