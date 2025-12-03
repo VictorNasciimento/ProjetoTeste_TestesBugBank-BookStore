@@ -20,6 +20,8 @@ O projeto segue a estrutura solicitada:
 ## 🚀 Como Rodar o Projeto
 
 Utilize: npx playwright test 
+
+
 para observar o relatório HTML com os resultados detalhados usamos no terminal: npx playwright show-report
 
 
